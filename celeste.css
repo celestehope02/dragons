@@ -2,8 +2,9 @@ body {background-color:#42f4e8 ;}
 a {color:#27f920 ;} 
 p  {color: #ef20f9 ;}  
 li {color:#f2f920 ;} 
-h1 {color: #f98220 ;}
-h2 {color:#f92036 ;} 
+h1 {color: #f98220 ; text-decoration: underline ;  text-shadow: 3px 2px red;}
+h2 {color:#f92036 ; text-decoration: overline ; text-shawdow: 3px 2px yellow} 
 a:hover{color:#42cef4 ;}  
 button{color:#f44242 ;} 
-button{background-color:#8cf794 ;}  
+button{background-color:#8cf794 ;}   
+p.double {border-style:double;} 
